@@ -39,18 +39,16 @@
       {
         "name": "jwBw",
         "type": "map",
-        "col": 13,
+        "col": 12,
         "row": 2,
         "colspan": 6,
-        "rowspan": 5
-      },
-      {
-        "name": "pgNPDUd",
-        "type": "barchart",
-        "col": 19,
-        "row": 2,
-        "colspan": 4,
-        "rowspan": 5
+        "rowspan": 5,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 50,
+          "width": 25,
+          "height": 41.66666666666667
+        }
       },
       {
         "name": "JbeTAc",
@@ -105,7 +103,8 @@
       "qStaticContentUrlDef": {
         "qUrl": "/appcontent/dfd9eec2-aafc-4d53-be17-abbbdce55ccd/HumanCap-Dash.png"
       }
-    }
+    },
+    "gridMode": "edit"
   },
   "qChildren": [
     {
@@ -641,6 +640,7 @@
                 "qFieldLabels": [],
                 "qSortCriterias": [
                   {
+                    "qSortByNumeric": 1,
                     "qSortByAscii": 1,
                     "qSortByLoadOrder": 1,
                     "qExpression": {}
@@ -759,7 +759,28 @@
           "qColumnOrder": [],
           "qExpansionState": [],
           "qDynamicScript": [],
-          "qLayoutExclude": {}
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
         },
         "refLine": {
           "refLines": []
@@ -780,7 +801,7 @@
           "showLabels": true
         },
         "color": {
-          "auto": true,
+          "auto": false,
           "mode": "primary",
           "singleColor": 3,
           "persistent": false,
@@ -792,7 +813,13 @@
           "autoMinMax": true,
           "measureMin": 0,
           "measureMax": 10,
-          "dimensionId": ""
+          "dimensionId": "",
+          "paletteColor": {
+            "index": -1,
+            "color": "#83af9b"
+          },
+          "useDimColVal": false,
+          "useMeasureGradient": false
         },
         "legend": {
           "show": false,
@@ -1476,216 +1503,6 @@
           "_layerType": "",
           "labelColoring": "auto"
         }
-      },
-      "qChildren": []
-    },
-    {
-      "qProperty": {
-        "qInfo": {
-          "qId": "pgNPDUd",
-          "qType": "barchart"
-        },
-        "qMetaDef": {},
-        "qHyperCubeDef": {
-          "qDimensions": [
-            {
-              "qLibraryId": "a63f4fa0-0c9e-4122-aaae-be60f3f6cb04",
-              "qDef": {
-                "qGrouping": "N",
-                "qFieldDefs": [],
-                "qFieldLabels": [],
-                "qSortCriterias": [
-                  {
-                    "qSortByNumeric": 1,
-                    "qSortByAscii": 1,
-                    "qSortByLoadOrder": 1,
-                    "qExpression": {}
-                  }
-                ],
-                "qNumberPresentations": [],
-                "qActiveField": 0,
-                "autoSort": true,
-                "cId": "JUJwAd",
-                "othersLabel": "Others",
-                "title": "Country"
-              },
-              "qOtherTotalSpec": {
-                "qOtherMode": "OTHER_OFF",
-                "qOtherCounted": {
-                  "qv": "10"
-                },
-                "qOtherLimit": {
-                  "qv": "0"
-                },
-                "qOtherLimitMode": "OTHER_GE_LIMIT",
-                "qForceBadValueKeeping": true,
-                "qApplyEvenWhenPossiblyWrongResult": true,
-                "qOtherSortMode": "OTHER_SORT_DESCENDING",
-                "qTotalMode": "TOTAL_OFF",
-                "qReferencedExpression": {}
-              },
-              "qOtherLabel": {},
-              "qTotalLabel": {},
-              "qCalcCond": {},
-              "qAttributeExpressions": [
-                {
-                  "qLibraryId": "ckPJmvF",
-                  "qAttribute": true,
-                  "id": "colorByAlternative",
-                  "matchMeasure": 0,
-                  "colorMapRef": "ckPJmvF"
-                }
-              ],
-              "qAttributeDimensions": [],
-              "qCalcCondition": {
-                "qCond": {},
-                "qMsg": {}
-              }
-            }
-          ],
-          "qMeasures": [
-            {
-              "qLibraryId": "ckPJmvF",
-              "qDef": {
-                "qTags": [],
-                "qGrouping": "N",
-                "qNumFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0,
-                  "qDec": "."
-                },
-                "qAccumulate": 0,
-                "qActiveExpression": 0,
-                "qExpressions": [],
-                "autoSort": true,
-                "cId": "wKFyHTP",
-                "numFormatFromTemplate": true
-              },
-              "qSortBy": {
-                "qSortByNumeric": -1,
-                "qSortByLoadOrder": 1,
-                "qExpression": {}
-              },
-              "qAttributeExpressions": [],
-              "qAttributeDimensions": [],
-              "qCalcCond": {},
-              "qCalcCondition": {
-                "qCond": {},
-                "qMsg": {}
-              },
-              "qTrendLines": [],
-              "qMiniChartDef": {
-                "qSortBy": {
-                  "qExpression": {}
-                },
-                "qOtherTotalSpec": {
-                  "qOtherMode": "OTHER_OFF",
-                  "qOtherCounted": {},
-                  "qOtherLimit": {},
-                  "qOtherLimitMode": "OTHER_GT_LIMIT",
-                  "qForceBadValueKeeping": true,
-                  "qApplyEvenWhenPossiblyWrongResult": true,
-                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
-                  "qTotalMode": "TOTAL_OFF",
-                  "qReferencedExpression": {}
-                },
-                "qMaxNumberPoints": -1,
-                "qAttributeExpressions": []
-              }
-            }
-          ],
-          "qInterColumnSortOrder": [
-            1,
-            0
-          ],
-          "qSuppressMissing": true,
-          "qInitialDataFetch": [
-            {
-              "qLeft": 0,
-              "qTop": 0,
-              "qWidth": 17,
-              "qHeight": 500
-            }
-          ],
-          "qReductionMode": "N",
-          "qMode": "S",
-          "qPseudoDimPos": 10000,
-          "qNoOfLeftDims": -1,
-          "qAlwaysFullyExpanded": true,
-          "qMaxStackedCells": 5000,
-          "qCalcCond": {},
-          "qTitle": {},
-          "qCalcCondition": {
-            "qCond": {},
-            "qMsg": {}
-          },
-          "qColumnOrder": [],
-          "qExpansionState": [],
-          "qDynamicScript": [],
-          "qLayoutExclude": {}
-        },
-        "refLine": {
-          "refLines": []
-        },
-        "showTitles": true,
-        "title": "Employees by country",
-        "subtitle": "",
-        "footnote": "",
-        "barGrouping": {
-          "grouping": "grouped"
-        },
-        "orientation": "horizontal",
-        "gridLine": {
-          "auto": true,
-          "spacing": 2
-        },
-        "dataPoint": {
-          "showLabels": true
-        },
-        "color": {
-          "auto": false,
-          "mode": "byMeasure",
-          "singleColor": 3,
-          "persistent": false,
-          "expressionLabel": "",
-          "expressionIsColor": true,
-          "measureScheme": "sg",
-          "reverseScheme": false,
-          "dimensionScheme": "12",
-          "autoMinMax": true,
-          "measureMin": 0,
-          "measureMax": 10,
-          "dimensionId": "",
-          "altLabel": "ckPJmvF",
-          "byMeasureDef": {
-            "label": "ckPJmvF",
-            "key": "ckPJmvF",
-            "type": "libraryItem"
-          }
-        },
-        "legend": {
-          "show": false,
-          "dock": "auto",
-          "showTitle": true
-        },
-        "dimensionAxis": {
-          "show": "labels",
-          "label": "auto",
-          "dock": "near"
-        },
-        "measureAxis": {
-          "show": "all",
-          "dock": "near",
-          "spacing": 1,
-          "autoMinMax": true,
-          "minMax": "min",
-          "min": 0,
-          "max": 10
-        },
-        "visualization": "barchart",
-        "masterVersion": 0.96,
-        "hash": 0.08863215721711404
       },
       "qChildren": []
     },
