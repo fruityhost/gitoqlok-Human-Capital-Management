@@ -24,3 +24,4 @@ Branch Name|Qlik application
 ---|---
 main|[https://dev2.datanomix.pro/sso/sense/app/dfd9eec2-aafc-4d53-be17-abbbdce55ccd](https://dev2.datanomix.pro/sso/sense/app/dfd9eec2-aafc-4d53-be17-abbbdce55ccd)
 dev2|[https://dev2.datanomix.pro/sso/sense/app/594da7b0-a2fd-4a22-98dc-85aeea69103e](https://dev2.datanomix.pro/sso/sense/app/594da7b0-a2fd-4a22-98dc-85aeea69103e)
+test|[https://dev2.datanomix.pro/sso/sense/app/5d31c5e2-9f4c-4e10-b235-561f6c4cbfb4](https://dev2.datanomix.pro/sso/sense/app/5d31c5e2-9f4c-4e10-b235-561f6c4cbfb4)
