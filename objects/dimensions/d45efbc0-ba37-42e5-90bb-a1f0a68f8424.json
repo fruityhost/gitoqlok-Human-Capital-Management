@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "d45efbc0-ba37-42e5-90bb-a1f0a68f8424",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Organization"
+    ],
+    "qFieldLabels": [
+      "Organization"
+    ],
+    "title": "Organization"
+  },
+  "qMetaDef": {
+    "title": "Organization",
+    "description": "",
+    "tags": [
+      "Geo",
+      "Location",
+      "Org"
+    ]
+  }
+}

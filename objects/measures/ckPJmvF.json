@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "ckPJmvF",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "# of Employees",
+    "qDef": "count(DISTINCT [EmployeeCount])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "# of Employees",
+    "description": "",
+    "tags": [
+      "Employees"
+    ]
+  }
+}

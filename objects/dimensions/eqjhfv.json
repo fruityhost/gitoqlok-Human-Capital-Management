@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "eqjhfv",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Location"
+    ],
+    "qFieldLabels": [
+      "Office"
+    ],
+    "title": "Office"
+  },
+  "qMetaDef": {
+    "title": "Office",
+    "description": "",
+    "tags": [
+      "Location"
+    ]
+  }
+}

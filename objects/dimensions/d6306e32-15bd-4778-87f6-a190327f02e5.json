@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "d6306e32-15bd-4778-87f6-a190327f02e5",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Town or City"
+    ],
+    "qFieldLabels": [
+      "Town or City"
+    ],
+    "title": "Town or City"
+  },
+  "qMetaDef": {
+    "title": "Town or City",
+    "description": "",
+    "tags": [
+      "Geo"
+    ]
+  }
+}

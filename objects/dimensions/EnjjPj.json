@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "EnjjPj",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Month"
+    ],
+    "qFieldLabels": [
+      "Reporting Month"
+    ],
+    "title": "Reporting Month"
+  },
+  "qMetaDef": {
+    "title": "Reporting Month",
+    "description": "",
+    "tags": [
+      "Date"
+    ]
+  }
+}

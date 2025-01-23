@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "QMXY",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Training Completion Ratio",
+    "qDef": "(count([# Program Completion]) - sum([# Program Completion]))/count([# Program Completion])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Training Completion Ratio",
+    "description": "Percentage of population that has completed the training program",
+    "tags": [
+      "completion",
+      "employee",
+      "training"
+    ]
+  }
+}

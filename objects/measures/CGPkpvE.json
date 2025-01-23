@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "CGPkpvE",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Score",
+    "qDef": "avg(Score)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Score",
+    "description": "Score given to each one of the questions in our quarterly employee satisfaction survey",
+    "tags": [
+      "great place to work",
+      "satisfaction",
+      "Survey"
+    ]
+  }
+}

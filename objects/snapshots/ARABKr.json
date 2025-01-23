@@ -1,0 +1,1088 @@
+{
+  "qInfo": {
+    "qId": "ARABKr",
+    "qType": "snapshot"
+  },
+  "qMetaDef": {},
+  "title": "",
+  "description": "",
+  "sheetId": "eEmmbS",
+  "creationDate": "2014-09-11",
+  "qMeta": {},
+  "qSelectionInfo": {},
+  "qHyperCube": {
+    "qSize": {
+      "qcx": 3,
+      "qcy": 19
+    },
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      },
+      {
+        "qFallbackTitle": "Management role",
+        "qApprMaxGlyphCount": 18,
+        "qCardinal": 4,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Management role"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 4,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Position1"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Management role",
+        "autoSort": true,
+        "cId": "VdXeY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 16,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 4,
+        "qMax": 1834,
+        "qIsAutoFormat": true,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "JGpTJRD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qEffectiveInterColumnSortOrder": [
+      0,
+      2,
+      1
+    ],
+    "qGrandTotalRow": [],
+    "qDataPages": [],
+    "qPivotDataPages": [],
+    "qStackedDataPages": [
+      {
+        "qData": [
+          {
+            "qElemNo": 0,
+            "qValue": 0,
+            "qType": "R",
+            "qMaxPos": 4619,
+            "qMinNeg": 0,
+            "qUp": 0,
+            "qDown": 0,
+            "qRow": 0,
+            "qSubNodes": [
+              {
+                "qText": "Asian",
+                "qElemNo": 2,
+                "qValue": "NaN",
+                "qType": "N",
+                "qMaxPos": 316,
+                "qMinNeg": 0,
+                "qUp": 0,
+                "qDown": 0,
+                "qRow": 0,
+                "qSubNodes": [
+                  {
+                    "qText": "Contributor",
+                    "qElemNo": 1,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 281,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 0,
+                    "qSubNodes": [
+                      {
+                        "qText": "281",
+                        "qElemNo": 0,
+                        "qValue": 281,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 0,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "First Line Manager",
+                    "qElemNo": 2,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 10,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 1,
+                    "qSubNodes": [
+                      {
+                        "qText": "10",
+                        "qElemNo": 0,
+                        "qValue": 10,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 1,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Middle Manager",
+                    "qElemNo": 0,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 25,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 2,
+                    "qSubNodes": [
+                      {
+                        "qText": "25",
+                        "qElemNo": 0,
+                        "qValue": 25,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 2,
+                        "qSubNodes": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "qText": "Black or African American",
+                "qElemNo": 0,
+                "qValue": "NaN",
+                "qType": "N",
+                "qMaxPos": 635,
+                "qMinNeg": 0,
+                "qUp": 0,
+                "qDown": 0,
+                "qRow": 3,
+                "qSubNodes": [
+                  {
+                    "qText": "Contributor",
+                    "qElemNo": 1,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 574,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 3,
+                    "qSubNodes": [
+                      {
+                        "qText": "574",
+                        "qElemNo": 0,
+                        "qValue": 574,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 3,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "First Line Manager",
+                    "qElemNo": 2,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 5,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 4,
+                    "qSubNodes": [
+                      {
+                        "qText": "5",
+                        "qElemNo": 0,
+                        "qValue": 5,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 4,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Middle Manager",
+                    "qElemNo": 0,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 56,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 5,
+                    "qSubNodes": [
+                      {
+                        "qText": "56",
+                        "qElemNo": 0,
+                        "qValue": 56,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 5,
+                        "qSubNodes": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "qText": "Hispanic or Latino",
+                "qElemNo": 1,
+                "qValue": "NaN",
+                "qType": "N",
+                "qMaxPos": 466,
+                "qMinNeg": 0,
+                "qUp": 0,
+                "qDown": 0,
+                "qRow": 6,
+                "qSubNodes": [
+                  {
+                    "qText": "Contributor",
+                    "qElemNo": 1,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 452,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 6,
+                    "qSubNodes": [
+                      {
+                        "qText": "452",
+                        "qElemNo": 0,
+                        "qValue": 452,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 6,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "First Line Manager",
+                    "qElemNo": 2,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 10,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 7,
+                    "qSubNodes": [
+                      {
+                        "qText": "10",
+                        "qElemNo": 0,
+                        "qValue": 10,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 7,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Middle Manager",
+                    "qElemNo": 0,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 4,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 8,
+                    "qSubNodes": [
+                      {
+                        "qText": "4",
+                        "qElemNo": 0,
+                        "qValue": 4,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 8,
+                        "qSubNodes": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "qText": "Other",
+                "qElemNo": 5,
+                "qValue": "NaN",
+                "qType": "N",
+                "qMaxPos": 716,
+                "qMinNeg": 0,
+                "qUp": 0,
+                "qDown": 0,
+                "qRow": 9,
+                "qSubNodes": [
+                  {
+                    "qText": "Contributor",
+                    "qElemNo": 1,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 689,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 9,
+                    "qSubNodes": [
+                      {
+                        "qText": "689",
+                        "qElemNo": 0,
+                        "qValue": 689,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 9,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "First Line Manager",
+                    "qElemNo": 2,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 6,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 10,
+                    "qSubNodes": [
+                      {
+                        "qText": "6",
+                        "qElemNo": 0,
+                        "qValue": 6,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 10,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Middle Manager",
+                    "qElemNo": 0,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 16,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 11,
+                    "qSubNodes": [
+                      {
+                        "qText": "16",
+                        "qElemNo": 0,
+                        "qValue": 16,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 11,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Senior Manager",
+                    "qElemNo": 3,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 5,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 12,
+                    "qSubNodes": [
+                      {
+                        "qText": "5",
+                        "qElemNo": 0,
+                        "qValue": 5,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 12,
+                        "qSubNodes": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "qText": "Unknown",
+                "qElemNo": 3,
+                "qValue": "NaN",
+                "qType": "N",
+                "qMaxPos": 490,
+                "qMinNeg": 0,
+                "qUp": 0,
+                "qDown": 0,
+                "qRow": 13,
+                "qSubNodes": [
+                  {
+                    "qText": "Contributor",
+                    "qElemNo": 1,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 403,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 13,
+                    "qSubNodes": [
+                      {
+                        "qText": "403",
+                        "qElemNo": 0,
+                        "qValue": 403,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 13,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "First Line Manager",
+                    "qElemNo": 2,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 33,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 14,
+                    "qSubNodes": [
+                      {
+                        "qText": "33",
+                        "qElemNo": 0,
+                        "qValue": 33,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 14,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Middle Manager",
+                    "qElemNo": 0,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 54,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 15,
+                    "qSubNodes": [
+                      {
+                        "qText": "54",
+                        "qElemNo": 0,
+                        "qValue": 54,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 15,
+                        "qSubNodes": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "qText": "White",
+                "qElemNo": 4,
+                "qValue": "NaN",
+                "qType": "N",
+                "qMaxPos": 1996,
+                "qMinNeg": 0,
+                "qUp": 0,
+                "qDown": 0,
+                "qRow": 16,
+                "qSubNodes": [
+                  {
+                    "qText": "Contributor",
+                    "qElemNo": 1,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 1834,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 16,
+                    "qSubNodes": [
+                      {
+                        "qText": "1834",
+                        "qElemNo": 0,
+                        "qValue": 1834,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 16,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "First Line Manager",
+                    "qElemNo": 2,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 10,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 17,
+                    "qSubNodes": [
+                      {
+                        "qText": "10",
+                        "qElemNo": 0,
+                        "qValue": 10,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 17,
+                        "qSubNodes": []
+                      }
+                    ]
+                  },
+                  {
+                    "qText": "Middle Manager",
+                    "qElemNo": 0,
+                    "qValue": "NaN",
+                    "qType": "N",
+                    "qMaxPos": 152,
+                    "qMinNeg": 0,
+                    "qUp": 0,
+                    "qDown": 0,
+                    "qRow": 18,
+                    "qSubNodes": [
+                      {
+                        "qText": "152",
+                        "qElemNo": 0,
+                        "qValue": 152,
+                        "qType": "V",
+                        "qMaxPos": 0,
+                        "qMinNeg": 0,
+                        "qUp": 0,
+                        "qDown": 0,
+                        "qRow": 18,
+                        "qSubNodes": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 0,
+          "qHeight": 0
+        }
+      }
+    ],
+    "qMode": "K",
+    "qNoOfLeftDims": 0,
+    "qTreeNodesOnDim": [],
+    "qColumnOrder": [],
+    "columnOrder": [
+      0,
+      1
+    ]
+  },
+  "showTitles": true,
+  "subtitle": "",
+  "footnote": "",
+  "dataPoint": {
+    "auto": true,
+    "labelMode": "share",
+    "showLabels": true,
+    "show": false
+  },
+  "color": {
+    "auto": false,
+    "mode": "byDimension",
+    "singleColor": 3,
+    "persistent": true,
+    "expressionIsColor": false,
+    "measureScheme": "sg",
+    "reverseScheme": false,
+    "dimensionScheme": "12",
+    "expressionLabel": "",
+    "autoMinMax": true,
+    "measureMin": 0,
+    "measureMax": 10,
+    "dimensionId": "",
+    "colorExpression": ""
+  },
+  "legend": {
+    "show": true,
+    "dock": "auto",
+    "showTitle": true
+  },
+  "visualization": "barchart",
+  "refLine": {
+    "refLines": []
+  },
+  "barGrouping": {
+    "grouping": "stacked"
+  },
+  "orientation": "vertical",
+  "gridLine": {
+    "auto": true,
+    "spacing": 2
+  },
+  "dimensionAxis": {
+    "show": "all",
+    "label": "auto",
+    "dock": "near"
+  },
+  "measureAxis": {
+    "show": "all",
+    "label": "horizontal",
+    "dock": "near",
+    "spacing": 0.5,
+    "autoMinMax": true,
+    "minMax": "max",
+    "min": 0,
+    "max": 2000
+  },
+  "reducedHyperCube": {
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "0",
+              "qNum": 0,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            },
+            {
+              "qNum": 0,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            },
+            {
+              "qNum": 1054.1751090401087,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "1",
+              "qNum": 1,
+              "qElemNumber": 2,
+              "qState": "L",
+              "qGreyValue": 0
+            },
+            {
+              "qNum": 0,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            },
+            {
+              "qNum": 1676.5463519193775,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "2",
+              "qNum": 2,
+              "qElemNumber": 4,
+              "qState": "L",
+              "qGreyValue": 0
+            },
+            {
+              "qNum": 0,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            },
+            {
+              "qNum": 1995.9999999999998,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 1,
+          "qTop": 0,
+          "qWidth": 3,
+          "qHeight": 6
+        },
+        "qIsReduced": true
+      }
+    ],
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      },
+      {
+        "qFallbackTitle": "Management role",
+        "qApprMaxGlyphCount": 18,
+        "qCardinal": 4,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Management role"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 4,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Position1"
+        ],
+        "title": "Management role",
+        "autoSort": true,
+        "cId": "VdXeY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 16,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 4,
+        "qMax": 1834,
+        "qIsAutoFormat": true,
+        "autoSort": true,
+        "cId": "JGpTJRD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qSize": {
+      "qcx": 2,
+      "qcy": 0
+    }
+  },
+  "visualizationType": "barchart",
+  "timestamp": 1410449463038,
+  "sourceObjectId": "eDJKuj",
+  "isClone": false,
+  "libraryTitle": "",
+  "snapshotData": {
+    "object": {
+      "size": {
+        "w": 624,
+        "h": 341
+      }
+    },
+    "parent": {
+      "h": 879,
+      "w": 1910
+    },
+    "content": {
+      "chartData": {
+        "legendScrollOffset": 0,
+        "scrollOffset": 0,
+        "discreteSpacing": 69.83333333333333,
+        "axisInnerOffset": 0,
+        "hasMiniChart": false
+      },
+      "size": {
+        "w": 624,
+        "h": 335
+      },
+      "components": {
+        "miniChart": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 419,
+            "h": 0
+          }
+        },
+        "refLineLabels": {
+          "visible": false,
+          "dock": "right",
+          "size": {
+            "w": 0,
+            "h": 218.78999919891356
+          }
+        },
+        "grid": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 419,
+            "h": 218.78999919891356
+          }
+        },
+        "legend": {
+          "visible": true,
+          "dock": "right",
+          "size": {
+            "w": 126,
+            "h": 218.78999919891356
+          }
+        },
+        "scrollArea": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 419,
+            "h": 0
+          }
+        },
+        "refLines": {
+          "visible": false,
+          "dock": "center",
+          "size": {
+            "w": 419,
+            "h": 218.78999919891356
+          }
+        },
+        "dataArea": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 419,
+            "h": 218.78999919891356
+          }
+        },
+        "measureAxis": {
+          "visible": true,
+          "dock": "left",
+          "size": {
+            "w": 75,
+            "h": 218.78999919891356
+          }
+        },
+        "dimensionAxis": {
+          "visible": true,
+          "dock": "bottom",
+          "size": {
+            "w": 419,
+            "h": 88
+          }
+        },
+        "dimensionAxisTitle": {
+          "visible": true,
+          "dock": "bottom",
+          "size": {
+            "w": 419,
+            "h": 24.210000801086423
+          }
+        }
+      },
+      "v": 0.96
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "kgcPFp",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Terminations Ratio",
+    "qDef": "(Count ({< [Terminated Employee] = {'1'} >} DISTINCT EmployeeCount)/count(DISTINCT EmployeeCount))",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Terminations Ratio",
+    "description": "Terminations vs total employees",
+    "tags": [
+      "Employees",
+      "Terminations"
+    ]
+  }
+}

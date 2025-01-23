@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "e5976e22-db20-4eaf-92e6-4ce3f60d5b34",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Organization Class"
+    ],
+    "qFieldLabels": [
+      "Organization Class"
+    ],
+    "title": "Organization Class"
+  },
+  "qMetaDef": {
+    "title": "Organization Class",
+    "description": "",
+    "tags": [
+      "Job"
+    ]
+  }
+}

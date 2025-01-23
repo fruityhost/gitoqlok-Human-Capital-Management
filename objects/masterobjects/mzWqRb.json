@@ -1,0 +1,109 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "mzWqRb",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Text: Training %",
+      "description": "Number of trained employees vs total number of employees",
+      "tags": [
+        "Employees",
+        "training"
+      ]
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [],
+      "qMeasures": [
+        {
+          "qLibraryId": "jcKxqdP",
+          "qDef": {
+            "qTags": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qType": "F",
+              "qnDec": 2,
+              "qUseThou": 0,
+              "qFmt": "0.0%",
+              "qDec": ".",
+              "qThou": ","
+            },
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "autoSort": true,
+            "cId": "pmUDw",
+            "numFormatFromTemplate": true
+          },
+          "qSortBy": {
+            "qSortByNumeric": -1,
+            "qSortByLoadOrder": 1,
+            "qExpression": {}
+          },
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qTrendLines": [],
+          "qMiniChartDef": {
+            "qSortBy": {
+              "qExpression": {}
+            },
+            "qOtherTotalSpec": {
+              "qOtherMode": "OTHER_OFF",
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qForceBadValueKeeping": true,
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qTotalMode": "TOTAL_OFF",
+              "qReferencedExpression": {}
+            },
+            "qMaxNumberPoints": -1,
+            "qAttributeExpressions": []
+          }
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0
+      ],
+      "qInitialDataFetch": [],
+      "qReductionMode": "N",
+      "qMode": "S",
+      "qPseudoDimPos": -1,
+      "qNoOfLeftDims": -1,
+      "qMaxStackedCells": 5000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qDynamicScript": [],
+      "qLayoutExclude": {}
+    },
+    "metadata": {},
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "responsive": "all",
+    "markdown": "^[Training](center)^[%[=[](pmUDw)](5)](center)",
+    "background": {
+      "url": {
+        "qStaticContentUrlDef": {}
+      },
+      "size": "auto"
+    },
+    "visualization": "text-image",
+    "masterVersion": 0.96,
+    "images": []
+  },
+  "qChildren": []
+}

@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "5a49bb40-ced4-4ba8-8a3c-04c5f0074e3b",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Developmental Program"
+    ],
+    "qFieldLabels": [
+      "Developmental Program"
+    ],
+    "title": "Developmental Program"
+  },
+  "qMetaDef": {
+    "title": "Developmental Program",
+    "description": "",
+    "tags": [
+      "Training"
+    ]
+  }
+}

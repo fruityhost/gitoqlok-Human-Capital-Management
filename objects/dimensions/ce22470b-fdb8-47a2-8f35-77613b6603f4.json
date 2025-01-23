@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "ce22470b-fdb8-47a2-8f35-77613b6603f4",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Position1"
+    ],
+    "qFieldLabels": [
+      "Management role"
+    ],
+    "title": "Management role"
+  },
+  "qMetaDef": {
+    "title": "Management role",
+    "description": "",
+    "tags": [
+      "Job",
+      "Management"
+    ]
+  }
+}

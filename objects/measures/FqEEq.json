@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "FqEEq",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "# of Women",
+    "qDef": "Count ({< [Gender] = {'Female'} >} DISTINCT EmployeeCount)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "# of Women",
+    "description": "",
+    "tags": []
+  }
+}

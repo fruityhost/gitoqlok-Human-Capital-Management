@@ -1,0 +1,282 @@
+{
+  "qInfo": {
+    "qId": "Eqfu",
+    "qType": "snapshot"
+  },
+  "qMetaDef": {},
+  "title": "",
+  "description": "",
+  "sheetId": "eEmmbS",
+  "creationDate": "2014-09-11",
+  "qMeta": {},
+  "qSelectionInfo": {},
+  "qHyperCube": {
+    "qSize": {
+      "qcx": 2,
+      "qcy": 5
+    },
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Management role",
+        "qApprMaxGlyphCount": 18,
+        "qCardinal": 4,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Management role"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 4,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Position1"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Management role",
+        "autoSort": true,
+        "cId": "VSFn",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 6,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 5,
+        "qMax": 4233,
+        "qIsAutoFormat": true,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "svpFse",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qEffectiveInterColumnSortOrder": [
+      1,
+      0
+    ],
+    "qGrandTotalRow": [
+      {
+        "qText": "4626",
+        "qNum": 4626,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      }
+    ],
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "Contributor",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "4233",
+              "qNum": 4233,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Middle Manager",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "307",
+              "qNum": 307,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "First Line Manager",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "74",
+              "qNum": 74,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "-",
+              "qNum": "NaN",
+              "qElemNumber": -2,
+              "qState": "L",
+              "qIsEmpty": true
+            },
+            {
+              "qText": "7",
+              "qNum": 7,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Senior Manager",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [
+          {
+            "qUp": 0,
+            "qDown": 0
+          }
+        ],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 2,
+          "qHeight": 5
+        }
+      }
+    ],
+    "qPivotDataPages": [],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qNoOfLeftDims": 0,
+    "qTreeNodesOnDim": [],
+    "qColumnOrder": []
+  },
+  "showTitles": true,
+  "subtitle": "",
+  "footnote": "",
+  "donut": {
+    "showAsDonut": false
+  },
+  "dimensionTitle": true,
+  "dataPoint": {
+    "auto": false,
+    "labelMode": "share"
+  },
+  "color": {
+    "auto": true,
+    "mode": "primary",
+    "singleColor": 3,
+    "persistent": false,
+    "expressionIsColor": true,
+    "measureScheme": "sg",
+    "reverseScheme": false,
+    "dimensionScheme": "12"
+  },
+  "legend": {
+    "show": false,
+    "dock": "auto",
+    "showTitle": true
+  },
+  "visualization": "piechart",
+  "visualizationType": "piechart",
+  "timestamp": 1410452224296,
+  "sourceObjectId": "GQXsM",
+  "isClone": false,
+  "libraryTitle": "",
+  "snapshotData": {
+    "object": {
+      "size": {
+        "w": 152,
+        "h": 133
+      }
+    },
+    "parent": {
+      "h": 879,
+      "w": 1910
+    },
+    "content": {
+      "chartData": {
+        "legendScrollOffset": 0,
+        "rotation": 0
+      },
+      "size": {
+        "w": 152,
+        "h": 127
+      },
+      "components": {
+        "legend": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 148,
+            "h": 0
+          }
+        },
+        "dataArea": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 148,
+            "h": 123
+          }
+        },
+        "dimensionAxisTitle": {
+          "visible": false,
+          "dock": "top",
+          "size": {
+            "w": 148,
+            "h": 0
+          }
+        }
+      },
+      "v": 0.96
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "c4eac37b-3c3c-47f8-a07d-3cb3b4d4fa46",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Gender"
+    ],
+    "qFieldLabels": [
+      "Gender"
+    ],
+    "title": "Gender"
+  },
+  "qMetaDef": {
+    "title": "Gender",
+    "description": "",
+    "tags": [
+      "Diversity"
+    ]
+  }
+}

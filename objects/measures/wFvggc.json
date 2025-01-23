@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "wFvggc",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Attrition",
+    "qDef": "Count ({< [Terminated Employee] = {'1'} >} DISTINCT [EmployeeCount])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Attrition",
+    "description": "",
+    "tags": [
+      "Attrition",
+      "Employee"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "SadvyW",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Training Cost (Total)",
+    "qDef": "sum([Training Cost])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Training Cost (Total)",
+    "description": "",
+    "tags": [
+      "Cost",
+      "Training"
+    ]
+  }
+}

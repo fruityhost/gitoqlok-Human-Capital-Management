@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "6dd96e55-fc44-42f1-bf1c-f954c1565a68",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Recruiting_Channel"
+    ],
+    "qFieldLabels": [
+      "Recruiting Channel"
+    ],
+    "title": "Recruiting Channel"
+  },
+  "qMetaDef": {
+    "title": "Recruiting Channel",
+    "description": "",
+    "tags": [
+      "Recruiting"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "CUG",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Employee Name"
+    ],
+    "qFieldLabels": [
+      "Employee Name"
+    ],
+    "title": "Employee Name"
+  },
+  "qMetaDef": {
+    "title": "Employee Name",
+    "description": "",
+    "tags": [
+      "Employee"
+    ]
+  }
+}

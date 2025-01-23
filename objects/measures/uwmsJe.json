@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "uwmsJe",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Employee Satisfaction Ratio",
+    "qDef": "avg(Score)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Employee Satisfaction Ratio",
+    "description": "Mean employee satisfaction ratio as the surveys shows",
+    "tags": [
+      "Employees",
+      "satisfaction"
+    ]
+  }
+}

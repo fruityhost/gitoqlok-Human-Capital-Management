@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "Qeqn",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "New Hires ratio",
+    "qDef": "(Count ({< [New Hires] = {'1'} >} DISTINCT EmployeeCount)/count(DISTINCT EmployeeCount))",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "New Hires ratio",
+    "description": "New Hires as a percentage of the total employees",
+    "tags": [
+      "Employees",
+      "Hires"
+    ]
+  }
+}

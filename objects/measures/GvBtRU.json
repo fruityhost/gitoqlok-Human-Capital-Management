@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "GvBtRU",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Women Employees Ratio",
+    "qDef": "Count ({< [Gender] = {'Female'} >} DISTINCT EmployeeCount)/count(DISTINCT EmployeeCount)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Women Employees Ratio",
+    "description": "measures the number of females employees vs the total number of employees",
+    "tags": [
+      "Employees",
+      "females",
+      "gender"
+    ]
+  }
+}

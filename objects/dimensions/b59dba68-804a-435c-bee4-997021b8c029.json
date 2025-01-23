@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "b59dba68-804a-435c-bee4-997021b8c029",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Recruiting_Source"
+    ],
+    "qFieldLabels": [
+      "Recruiting Source"
+    ],
+    "title": "Recruiting Source"
+  },
+  "qMetaDef": {
+    "title": "Recruiting Source",
+    "description": "",
+    "tags": [
+      "Hire"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "kESpX",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "New Hires",
+    "qDef": "Count ({< [New Hires] = {'1'} >} DISTINCT EmployeeCount)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "New Hires",
+    "description": "Count of new hires",
+    "tags": [
+      "Employees",
+      "Hires"
+    ]
+  }
+}

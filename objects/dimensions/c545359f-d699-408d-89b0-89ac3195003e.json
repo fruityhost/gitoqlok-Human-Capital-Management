@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "c545359f-d699-408d-89b0-89ac3195003e",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Termination"
+    ],
+    "qFieldLabels": [
+      "Termination (Y/N)"
+    ],
+    "title": "Termination (Y/N)"
+  },
+  "qMetaDef": {
+    "title": "Termination (Y/N)",
+    "description": "",
+    "tags": [
+      "Employee",
+      "Termination"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "64b314bd-2c9e-413f-91f6-3d13c0f44129",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Age"
+    ],
+    "qFieldLabels": [
+      "Age"
+    ],
+    "title": "Age"
+  },
+  "qMetaDef": {
+    "title": "Age",
+    "description": "",
+    "tags": [
+      "Age"
+    ]
+  }
+}

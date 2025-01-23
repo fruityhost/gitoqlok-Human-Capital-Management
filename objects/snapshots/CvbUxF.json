@@ -1,0 +1,2722 @@
+{
+  "qInfo": {
+    "qId": "CvbUxF",
+    "qType": "snapshot"
+  },
+  "qMetaDef": {},
+  "title": "",
+  "description": "",
+  "sheetId": "eEmmbS",
+  "creationDate": "2014-09-11",
+  "qMeta": {},
+  "qSelectionInfo": {},
+  "qHyperCube": {
+    "qSize": {
+      "qcx": 3,
+      "qcy": 52
+    },
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Country",
+        "qApprMaxGlyphCount": 14,
+        "qCardinal": 10,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Country"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 10,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Country"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Country",
+        "autoSort": true,
+        "cId": "JwmhMP",
+        "othersLabel": "Others"
+      },
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 44,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 1,
+        "qMax": 596,
+        "qIsAutoFormat": true,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "JGpTJRD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qEffectiveInterColumnSortOrder": [
+      0,
+      2,
+      1
+    ],
+    "qGrandTotalRow": [
+      {
+        "qText": "4619",
+        "qNum": 4619,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      }
+    ],
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "10",
+              "qNum": 10,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "10",
+              "qNum": 10,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "8",
+              "qNum": 8,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "596",
+              "qNum": 596,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "178",
+              "qNum": 178,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "123",
+              "qNum": 123,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "62",
+              "qNum": 62,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "58",
+              "qNum": 58,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "38",
+              "qNum": 38,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "117",
+              "qNum": 117,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "59",
+              "qNum": 59,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "18",
+              "qNum": 18,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "8",
+              "qNum": 8,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "6",
+              "qNum": 6,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "218",
+              "qNum": 218,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "118",
+              "qNum": 118,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "49",
+              "qNum": 49,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "27",
+              "qNum": 27,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "16",
+              "qNum": 16,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "10",
+              "qNum": 10,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Ireland",
+              "qNum": "NaN",
+              "qElemNumber": 8,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "16",
+              "qNum": 16,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Ireland",
+              "qNum": "NaN",
+              "qElemNumber": 8,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "4",
+              "qNum": 4,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "103",
+              "qNum": 103,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "100",
+              "qNum": 100,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "77",
+              "qNum": 77,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "42",
+              "qNum": 42,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "14",
+              "qNum": 14,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "6",
+              "qNum": 6,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "64",
+              "qNum": 64,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "32",
+              "qNum": 32,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "25",
+              "qNum": 25,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "13",
+              "qNum": 13,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "1",
+              "qNum": 1,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Scotland",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "54",
+              "qNum": 54,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Scotland",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "9",
+              "qNum": 9,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Scotland",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "439",
+              "qNum": 439,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "173",
+              "qNum": 173,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "86",
+              "qNum": 86,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "45",
+              "qNum": 45,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "29",
+              "qNum": 29,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "15",
+              "qNum": 15,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "530",
+              "qNum": 530,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "335",
+              "qNum": 335,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "292",
+              "qNum": 292,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "180",
+              "qNum": 180,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "110",
+              "qNum": 110,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "71",
+              "qNum": 71,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [
+          {
+            "qUp": 0,
+            "qDown": 0
+          },
+          {
+            "qUp": 0,
+            "qDown": 0
+          }
+        ],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 3,
+          "qHeight": 52
+        }
+      }
+    ],
+    "qPivotDataPages": [],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qNoOfLeftDims": 0,
+    "qTreeNodesOnDim": [],
+    "qColumnOrder": [],
+    "columnOrder": [
+      0,
+      1
+    ]
+  },
+  "showTitles": true,
+  "subtitle": "",
+  "footnote": "",
+  "dataPoint": {
+    "auto": true,
+    "labelMode": "share",
+    "showLabels": true,
+    "show": false
+  },
+  "color": {
+    "auto": false,
+    "mode": "byDimension",
+    "singleColor": 3,
+    "persistent": true,
+    "expressionIsColor": false,
+    "measureScheme": "sg",
+    "reverseScheme": false,
+    "dimensionScheme": "12",
+    "expressionLabel": "",
+    "autoMinMax": true,
+    "measureMin": 0,
+    "measureMax": 10,
+    "dimensionId": "",
+    "colorExpression": ""
+  },
+  "legend": {
+    "show": false,
+    "dock": "auto",
+    "showTitle": true
+  },
+  "visualization": "barchart",
+  "refLine": {
+    "refLines": []
+  },
+  "barGrouping": {
+    "grouping": "grouped"
+  },
+  "orientation": "vertical",
+  "gridLine": {
+    "auto": true,
+    "spacing": 2
+  },
+  "dimensionAxis": {
+    "show": "all",
+    "label": "auto",
+    "dock": "near"
+  },
+  "measureAxis": {
+    "show": "all",
+    "label": "horizontal",
+    "dock": "near",
+    "spacing": 1,
+    "autoMinMax": true,
+    "minMax": "min",
+    "min": 0,
+    "max": 10
+  },
+  "reducedHyperCube": {
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "10",
+              "qNum": 10,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "10",
+              "qNum": 10,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "8",
+              "qNum": 8,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Australia",
+              "qNum": "NaN",
+              "qElemNumber": 9,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "596",
+              "qNum": 596,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "178",
+              "qNum": 178,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "123",
+              "qNum": 123,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "62",
+              "qNum": 62,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "58",
+              "qNum": 58,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Canada",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "38",
+              "qNum": 38,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "117",
+              "qNum": 117,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "59",
+              "qNum": 59,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "18",
+              "qNum": 18,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "8",
+              "qNum": 8,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "6",
+              "qNum": 6,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "France",
+              "qNum": "NaN",
+              "qElemNumber": 6,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "218",
+              "qNum": 218,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "118",
+              "qNum": 118,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "49",
+              "qNum": 49,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "27",
+              "qNum": 27,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "16",
+              "qNum": 16,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Germany",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "10",
+              "qNum": 10,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Ireland",
+              "qNum": "NaN",
+              "qElemNumber": 8,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "16",
+              "qNum": 16,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Ireland",
+              "qNum": "NaN",
+              "qElemNumber": 8,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "4",
+              "qNum": 4,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "103",
+              "qNum": 103,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "100",
+              "qNum": 100,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "77",
+              "qNum": 77,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "42",
+              "qNum": 42,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "14",
+              "qNum": 14,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Italy",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "6",
+              "qNum": 6,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "64",
+              "qNum": 64,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "32",
+              "qNum": 32,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "25",
+              "qNum": 25,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "13",
+              "qNum": 13,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Poland",
+              "qNum": "NaN",
+              "qElemNumber": 7,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "1",
+              "qNum": 1,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Scotland",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "54",
+              "qNum": 54,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Scotland",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "9",
+              "qNum": 9,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Scotland",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "5",
+              "qNum": 5,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "439",
+              "qNum": 439,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "173",
+              "qNum": 173,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "86",
+              "qNum": 86,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "45",
+              "qNum": 45,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "29",
+              "qNum": 29,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United Kingdom",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "15",
+              "qNum": 15,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "530",
+              "qNum": 530,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "335",
+              "qNum": 335,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "292",
+              "qNum": 292,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "180",
+              "qNum": 180,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "110",
+              "qNum": 110,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "United States",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "71",
+              "qNum": 71,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ]
+        ],
+        "qTails": [
+          {
+            "qUp": 0,
+            "qDown": 0
+          },
+          {
+            "qUp": 0,
+            "qDown": 0
+          }
+        ],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 3,
+          "qHeight": 52
+        }
+      }
+    ],
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Country",
+        "qApprMaxGlyphCount": 14,
+        "qCardinal": 10,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Country"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 10,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Country"
+        ],
+        "title": "Country",
+        "autoSort": true,
+        "cId": "JwmhMP",
+        "othersLabel": "Others"
+      },
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 44,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 1,
+        "qMax": 596,
+        "qIsAutoFormat": true,
+        "autoSort": true,
+        "cId": "JGpTJRD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qSize": {
+      "qcx": 2,
+      "qcy": 0
+    }
+  },
+  "visualizationType": "barchart",
+  "timestamp": 1410449079279,
+  "sourceObjectId": "eDJKuj",
+  "isClone": false,
+  "libraryTitle": "",
+  "snapshotData": {
+    "object": {
+      "size": {
+        "w": 1648,
+        "h": 341
+      }
+    },
+    "parent": {
+      "h": 879,
+      "w": 1910
+    },
+    "content": {
+      "chartData": {
+        "legendScrollOffset": 0,
+        "scrollOffset": 0,
+        "discreteSpacing": 25.419354838709676,
+        "axisInnerOffset": 0,
+        "hasMiniChart": false
+      },
+      "size": {
+        "w": 1648,
+        "h": 335
+      },
+      "components": {
+        "miniChart": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 1576,
+            "h": 0
+          }
+        },
+        "refLineLabels": {
+          "visible": false,
+          "dock": "right",
+          "size": {
+            "w": 0,
+            "h": 237.78999919891356
+          }
+        },
+        "grid": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 1576,
+            "h": 237.78999919891356
+          }
+        },
+        "legend": {
+          "visible": false,
+          "dock": "right",
+          "size": {
+            "w": 0,
+            "h": 237.78999919891356
+          }
+        },
+        "scrollArea": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 1576,
+            "h": 0
+          }
+        },
+        "refLines": {
+          "visible": false,
+          "dock": "center",
+          "size": {
+            "w": 1576,
+            "h": 237.78999919891356
+          }
+        },
+        "dataArea": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 1576,
+            "h": 237.78999919891356
+          }
+        },
+        "measureAxis": {
+          "visible": true,
+          "dock": "left",
+          "size": {
+            "w": 68,
+            "h": 237.78999919891356
+          }
+        },
+        "dimensionAxis": {
+          "visible": true,
+          "dock": "bottom",
+          "size": {
+            "w": 1576,
+            "h": 69
+          }
+        },
+        "dimensionAxisTitle": {
+          "visible": true,
+          "dock": "bottom",
+          "size": {
+            "w": 1576,
+            "h": 24.210000801086423
+          }
+        }
+      },
+      "v": 0.96
+    }
+  }
+}

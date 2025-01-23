@@ -1,0 +1,229 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "YPAnY",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Gender Employee Distribution",
+      "description": "Diversity map",
+      "tags": [
+        "Diversity",
+        "Employee",
+        "Female",
+        "Gender",
+        "Male"
+      ]
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [
+        {
+          "qLibraryId": "c4eac37b-3c3c-47f8-a07d-3cb3b4d4fa46",
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qSortCriterias": [
+              {
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0,
+            "autoSort": true,
+            "cId": "GmxWBG",
+            "othersLabel": "Others",
+            "title": "Gender"
+          },
+          "qOtherTotalSpec": {
+            "qOtherMode": "OTHER_OFF",
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qForceBadValueKeeping": true,
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qTotalMode": "TOTAL_OFF",
+            "qReferencedExpression": {}
+          },
+          "qOtherLabel": {},
+          "qTotalLabel": {},
+          "qCalcCond": {},
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          }
+        },
+        {
+          "qLibraryId": "ce22470b-fdb8-47a2-8f35-77613b6603f4",
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qSortCriterias": [
+              {
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0,
+            "autoSort": true,
+            "cId": "nCjbQ",
+            "othersLabel": "Others",
+            "title": "Management role"
+          },
+          "qOtherTotalSpec": {
+            "qOtherMode": "OTHER_OFF",
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qForceBadValueKeeping": true,
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qTotalMode": "TOTAL_OFF",
+            "qReferencedExpression": {}
+          },
+          "qOtherLabel": {},
+          "qTotalLabel": {},
+          "qCalcCond": {},
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          }
+        }
+      ],
+      "qMeasures": [
+        {
+          "qLibraryId": "ckPJmvF",
+          "qDef": {
+            "qTags": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qType": "U",
+              "qnDec": 10,
+              "qUseThou": 0
+            },
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "autoSort": true,
+            "cId": "KjBvANw",
+            "numFormatFromTemplate": true
+          },
+          "qSortBy": {
+            "qSortByNumeric": -1,
+            "qSortByLoadOrder": 1,
+            "qExpression": {}
+          },
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qTrendLines": [],
+          "qMiniChartDef": {
+            "qSortBy": {
+              "qExpression": {}
+            },
+            "qOtherTotalSpec": {
+              "qOtherMode": "OTHER_OFF",
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qForceBadValueKeeping": true,
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qTotalMode": "TOTAL_OFF",
+              "qReferencedExpression": {}
+            },
+            "qMaxNumberPoints": -1,
+            "qAttributeExpressions": []
+          }
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0,
+        1,
+        2
+      ],
+      "qSuppressMissing": true,
+      "qInitialDataFetch": [
+        {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 30,
+          "qHeight": 3000
+        }
+      ],
+      "qReductionMode": "N",
+      "qMode": "K",
+      "qPseudoDimPos": 0,
+      "qNoOfLeftDims": -1,
+      "qAlwaysFullyExpanded": true,
+      "qMaxStackedCells": 3000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qDynamicScript": [],
+      "qLayoutExclude": {}
+    },
+    "metadata": {},
+    "showTitles": true,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "labels": {
+      "auto": false,
+      "headers": false,
+      "overlay": true,
+      "leaves": true,
+      "values": false
+    },
+    "color": {
+      "auto": true,
+      "mode": "primary",
+      "singleColor": 3,
+      "persistent": true,
+      "expressionLabel": "",
+      "expressionIsColor": true,
+      "measureScheme": "sg",
+      "reverseScheme": false,
+      "dimensionScheme": "12",
+      "autoMinMax": true,
+      "measureMin": 0,
+      "measureMax": 10,
+      "dimensionId": ""
+    },
+    "legend": {
+      "show": false,
+      "dock": "auto",
+      "showTitle": true
+    },
+    "visualization": "treemap",
+    "masterVersion": 0.96
+  },
+  "qChildren": []
+}

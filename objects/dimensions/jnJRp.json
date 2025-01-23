@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "jnJRp",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Band"
+    ],
+    "qFieldLabels": [
+      "Employee Rate Categorization"
+    ],
+    "title": "Employee Rate Categorization"
+  },
+  "qMetaDef": {
+    "title": "Employee Rate Categorization",
+    "description": "Employees ABCD classification",
+    "tags": [
+      "Employee",
+      "Employees"
+    ]
+  }
+}

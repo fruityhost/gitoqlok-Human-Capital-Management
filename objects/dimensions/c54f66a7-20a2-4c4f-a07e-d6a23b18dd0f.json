@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "c54f66a7-20a2-4c4f-a07e-d6a23b18dd0f",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Tenure Group"
+    ],
+    "qFieldLabels": [
+      "Tenure Group"
+    ],
+    "title": "Tenure Group"
+  },
+  "qMetaDef": {
+    "title": "Tenure Group",
+    "description": "",
+    "tags": [
+      "Employee"
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "qInfo": {
+    "qId": "jmQvcf",
+    "qType": "snapshot"
+  },
+  "qMetaDef": {},
+  "title": "",
+  "description": "",
+  "sheetId": "JNmE",
+  "creationDate": "2014-09-09",
+  "qMeta": {},
+  "qSelectionInfo": {},
+  "qHyperCube": {
+    "qSize": {
+      "qcx": 3,
+      "qcy": 6
+    },
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "Employee %",
+        "qApprMaxGlyphCount": 6,
+        "qCardinal": 6,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "F",
+          "qnDec": 2,
+          "qUseThou": 0,
+          "qFmt": "0.0%",
+          "qDec": ".",
+          "qThou": ","
+        },
+        "qMin": 0.06590621039290241,
+        "qMax": 0.47275031685678076,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": false,
+        "cId": "ekKRkf",
+        "numFormatFromTemplate": true
+      },
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 3,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 52,
+        "qMax": 373,
+        "qIsAutoFormat": true,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "qpD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qEffectiveInterColumnSortOrder": [
+      1,
+      0,
+      2
+    ],
+    "qGrandTotalRow": [
+      {
+        "qText": "100.0%",
+        "qNum": 1,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      },
+      {
+        "qText": "789",
+        "qNum": 789,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      }
+    ],
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 6
+        }
+      },
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "47.3%",
+              "qNum": 0.47275031685678076,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "14.4%",
+              "qNum": 0.1444866920152091,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "11.0%",
+              "qNum": 0.11026615969581749,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "11.0%",
+              "qNum": 0.11026615969581749,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "9.6%",
+              "qNum": 0.09632446134347275,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "6.6%",
+              "qNum": 0.06590621039290241,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 1,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 6
+        }
+      },
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "373",
+              "qNum": 373,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "114",
+              "qNum": 114,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "87",
+              "qNum": 87,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "87",
+              "qNum": 87,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "76",
+              "qNum": 76,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "52",
+              "qNum": 52,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 2,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 6
+        }
+      }
+    ],
+    "qPivotDataPages": [],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qNoOfLeftDims": 0,
+    "qTreeNodesOnDim": [],
+    "qColumnOrder": [],
+    "columnOrder": [
+      0,
+      1,
+      2
+    ],
+    "columnWidths": [
+      -1,
+      -1,
+      -1
+    ]
+  },
+  "showTitles": true,
+  "subtitle": "",
+  "footnote": "",
+  "visualization": "table",
+  "totals": {
+    "show": "auto",
+    "position": "noTotals"
+  },
+  "visualizationType": "table",
+  "timestamp": 1410295053783,
+  "sourceObjectId": "PEDjaJv",
+  "isClone": false,
+  "libraryTitle": "",
+  "snapshotData": {
+    "object": {
+      "size": {
+        "w": 386,
+        "h": 409
+      },
+      "dataTableHeight": 148
+    },
+    "parent": {
+      "h": 879,
+      "w": 1910
+    }
+  }
+}

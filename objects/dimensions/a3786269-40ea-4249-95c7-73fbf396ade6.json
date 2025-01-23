@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "a3786269-40ea-4249-95c7-73fbf396ade6",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Geography"
+    ],
+    "qFieldLabels": [
+      "Geography"
+    ],
+    "title": "Geography"
+  },
+  "qMetaDef": {
+    "title": "Geography",
+    "description": "",
+    "tags": [
+      "Geo"
+    ]
+  }
+}

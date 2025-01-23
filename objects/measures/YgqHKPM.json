@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "YgqHKPM",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Training Completion",
+    "qDef": "sum([# Program Completion])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Training Completion",
+    "description": "",
+    "tags": [
+      "Training"
+    ]
+  }
+}

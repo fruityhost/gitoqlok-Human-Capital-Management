@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "StTQbT",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Training Hours (Total)",
+    "qDef": "sum([Training Hours])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Training Hours (Total)",
+    "description": "",
+    "tags": [
+      "Training"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "qTitle": "Human Capital Management(1)",
+  "qThumbnail": {
+    "qUrl": "/appcontent/dfd9eec2-aafc-4d53-be17-abbbdce55ccd/thumb-human_capital_management.png"
+  },
+  "qUsage": "ANALYTICS",
+  "published": false,
+  "publishTime": "1753-01-01T00:00:00.000Z",
+  "description": "In this demo, you will see Employee Demographics, Turnover, New Hires, Terminations,  and Salaries. Explore storytelling mode to find out more insight about company's diversity programs.\nMost of the data for this app comes from a HRMS system, but it also includes data from other sources such as Payroll & Compensation, Recruiting systems, Active Directory (LDAP), Learning Management System, and other local sources (XLS, CSV, etc.)",
+  "dynamicColor": "",
+  "stream": null
+}

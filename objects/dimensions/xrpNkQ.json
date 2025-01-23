@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "xrpNkQ",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "Developmental Program",
+      "Course Type",
+      "Course"
+    ],
+    "qFieldLabels": [],
+    "title": "Dev Prog > Course Type > Course"
+  },
+  "qMetaDef": {
+    "title": "Dev Prog > Course Type > Course",
+    "description": "",
+    "tags": [
+      "Training"
+    ]
+  }
+}

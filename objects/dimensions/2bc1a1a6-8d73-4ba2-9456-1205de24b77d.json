@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "2bc1a1a6-8d73-4ba2-9456-1205de24b77d",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Director"
+    ],
+    "qFieldLabels": [
+      "Director"
+    ],
+    "title": "Director"
+  },
+  "qMetaDef": {
+    "title": "Director",
+    "description": "",
+    "tags": [
+      "Manager"
+    ]
+  }
+}

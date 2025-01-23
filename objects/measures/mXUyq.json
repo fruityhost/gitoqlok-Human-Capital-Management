@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "mXUyq",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Avg Compensation",
+    "qDef": "avg([Salary])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Avg Compensation",
+    "description": "Mean salary",
+    "tags": [
+      "Salary"
+    ]
+  }
+}

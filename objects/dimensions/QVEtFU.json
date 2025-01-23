@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "QVEtFU",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Age Group"
+    ],
+    "qFieldLabels": [
+      "Age Group"
+    ],
+    "title": "Age Group"
+  },
+  "qMetaDef": {
+    "title": "Age Group",
+    "description": "",
+    "tags": [
+      "Age"
+    ]
+  }
+}

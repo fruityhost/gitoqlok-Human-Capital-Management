@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "bsXmJy",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "Job Family",
+      "Job"
+    ],
+    "qFieldLabels": [
+      "Job Family"
+    ],
+    "title": "Job Family > Job"
+  },
+  "qMetaDef": {
+    "title": "Job Family > Job",
+    "description": "Job exploration",
+    "tags": [
+      "drill",
+      "Job"
+    ]
+  },
+  "isEditMode": true
+}

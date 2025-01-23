@@ -1,0 +1,106 @@
+///$tab Main
+countryISO:
+mapping LOAD
+    Country,
+    CountryCode
+FROM [lib://Human Capital Management data/Sheet2.qvd]
+(qvd);
+
+countryISO3:
+mapping LOAD
+    "Alpha-2 code",
+    "Alpha-3 code"
+FROM [lib://ISO]
+(html, codepage is 1252, embedded labels, table is @1);
+
+
+LOAD
+    Course_ID,
+    Course,
+    "Course Type",
+    "Developmental Program"
+FROM [lib://Human Capital Management data/Courses.qvd]
+(qvd);
+
+
+
+Load
+*,
+applymap('countryISO3', CountryCode) as CountryCode3,
+subfield(Month,'-',2) as Year
+;
+LOAD
+    if(SubStringCount("Month",'Jan')=1,dual(replace("Month",'2013','2014'),1),
+    	if(SubStringCount("Month",'Feb')=1,dual(replace("Month",'2013','2014'),2),
+        	if(SubStringCount("Month",'Mar')=1,dual(replace("Month",'2013','2014'),3),
+            	if(SubStringCount("Month",'Apr')=1,dual(replace("Month",'2013','2014'),4),
+                	if(SubStringCount("Month",'May')=1,dual(replace("Month",'2013','2014'),5),
+                    	if(SubStringCount("Month",'Jun')=1,dual(replace("Month",'2013','2014'),6))))))) as "Month",
+    Employee_ID,
+    AutoNumber(Employee_ID&"Employee Name"&Salary) as EmployeeCount,
+    //"Employee No",
+    "Employee Name",
+    Reason,
+    "Job Family",
+    Job,
+    Position,
+    Geography,
+    Country,
+    applymap('countryISO', Country) as CountryCode,
+    "Town or City",
+    Location,
+    Gender,
+    Band,
+    Position1,
+    "Employment Status",
+    "Organization Type",
+    "Organization Class",
+    Organization,
+    "Ethnic Group",
+    Recruiting_Channel,
+    Recruiting_Source,
+    Salary,
+    "Employee Type",
+    "Terminated Employee",
+    Termination,
+    NewHire,
+    "New Hires",
+    Tenure,
+    "Tenure Group",
+    "Age",
+    "Age Group"
+FROM [lib://Human Capital Management data/Employees.qvd]
+(qvd) where Employee_ID <>10 and Employee_ID <>284 and Employee_ID <>315 and Employee_ID <>1357 and Gender <>'-';
+
+LOAD
+    Employee_ID,
+    Director,
+    VP
+FROM [lib://Human Capital Management data/Hierarchy$.qvd]
+(qvd) where Employee_ID <>10 and Employee_ID <>284 and Employee_ID <>315 and Employee_ID <>1357 ;
+
+
+LOAD
+    Employee_ID,
+    Course_ID,
+    "# Enrollment",
+    "Training Hours",
+    "Training Cost",
+    "# Program Completion"
+FROM [lib://Human Capital Management data/Training.qvd]
+(qvd) where Employee_ID <>10 and Employee_ID <>284 and Employee_ID <>315 and Employee_ID <>1357;
+
+LOAD
+    Employee_ID,
+    "Question Type",
+    Score,
+    Responses
+FROM [lib://HR/Survey$.qvd]
+(qvd) where Employee_ID <>10 and Employee_ID <>284 and Employee_ID <>315 and Employee_ID <>1357;
+
+LOAD
+    World.Name as CountryCode3,
+    World.Name as CountryShort,
+    World.Area
+FROM 'lib://KML Files For Maps/World.kml'
+(kml, Table is [World.shp/Features]);

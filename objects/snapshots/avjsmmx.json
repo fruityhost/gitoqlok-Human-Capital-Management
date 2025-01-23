@@ -1,0 +1,357 @@
+{
+  "qInfo": {
+    "qId": "avjsmmx",
+    "qType": "snapshot"
+  },
+  "qMetaDef": {},
+  "title": "",
+  "description": "",
+  "sheetId": "eEmmbS",
+  "creationDate": "2014-09-11",
+  "qMeta": {},
+  "qSelectionInfo": {},
+  "qHyperCube": {
+    "qSize": {
+      "qcx": 3,
+      "qcy": 6
+    },
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "% of Total",
+        "qApprMaxGlyphCount": 6,
+        "qCardinal": 7,
+        "qSortIndicator": "A",
+        "qNumFormat": {
+          "qType": "F",
+          "qnDec": 2,
+          "qUseThou": 0,
+          "qFmt": "0.0%",
+          "qDec": ".",
+          "qThou": ","
+        },
+        "qMin": 0.03626943005181347,
+        "qMax": 0.41968911917098445,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "XeAMDsH",
+        "numFormatFromTemplate": true
+      },
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 3,
+        "qCardinal": 7,
+        "qSortIndicator": "A",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 14,
+        "qMax": 162,
+        "qIsAutoFormat": true,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "NupGHf",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qEffectiveInterColumnSortOrder": [
+      0,
+      1,
+      2
+    ],
+    "qGrandTotalRow": [
+      {
+        "qText": "100.0%",
+        "qNum": 1,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      },
+      {
+        "qText": "386",
+        "qNum": 386,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      }
+    ],
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            }
+          ],
+          [
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 6
+        }
+      },
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "35",
+              "qNum": 35,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "61",
+              "qNum": 61,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "14",
+              "qNum": 14,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "27",
+              "qNum": 27,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "87",
+              "qNum": 87,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "162",
+              "qNum": 162,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 2,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 6
+        }
+      },
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "9.1%",
+              "qNum": 0.09067357512953368,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "15.8%",
+              "qNum": 0.15803108808290156,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "3.6%",
+              "qNum": 0.03626943005181347,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "7.0%",
+              "qNum": 0.06994818652849741,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "22.5%",
+              "qNum": 0.22538860103626943,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "42.0%",
+              "qNum": 0.41968911917098445,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [],
+        "qArea": {
+          "qLeft": 1,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 6
+        }
+      }
+    ],
+    "qPivotDataPages": [],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qNoOfLeftDims": 0,
+    "qTreeNodesOnDim": [],
+    "qColumnOrder": [],
+    "columnOrder": [
+      0,
+      2,
+      1
+    ],
+    "columnWidths": [
+      -1,
+      -1,
+      -1
+    ]
+  },
+  "showTitles": true,
+  "subtitle": "",
+  "footnote": "",
+  "visualization": "table",
+  "totals": {
+    "show": "auto",
+    "position": "bottom"
+  },
+  "visualizationType": "table",
+  "timestamp": 1410449661821,
+  "sourceObjectId": "LxTqKt",
+  "isClone": false,
+  "libraryTitle": "",
+  "snapshotData": {
+    "object": {
+      "size": {
+        "w": 388,
+        "h": 480
+      },
+      "dataTableHeight": 148
+    },
+    "parent": {
+      "h": 879,
+      "w": 1910
+    }
+  }
+}

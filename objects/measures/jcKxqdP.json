@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "jcKxqdP",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Completed Training ratio",
+    "qDef": "sum([# Program Completion])/count(DISTINCT EmployeeCount)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Completed Training ratio",
+    "description": "it measures the number of employees that actually completed the training program",
+    "tags": [
+      "Employees",
+      "Training"
+    ]
+  }
+}

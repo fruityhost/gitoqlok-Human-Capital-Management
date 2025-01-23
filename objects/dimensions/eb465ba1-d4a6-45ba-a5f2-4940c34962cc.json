@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "eb465ba1-d4a6-45ba-a5f2-4940c34962cc",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "VP"
+    ],
+    "qFieldLabels": [
+      "VP"
+    ],
+    "title": "VP"
+  },
+  "qMetaDef": {
+    "title": "VP",
+    "description": "",
+    "tags": [
+      "Employee",
+      "Manager"
+    ]
+  }
+}

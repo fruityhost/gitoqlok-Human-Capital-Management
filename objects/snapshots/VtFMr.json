@@ -1,0 +1,571 @@
+{
+  "qInfo": {
+    "qId": "VtFMr",
+    "qType": "snapshot"
+  },
+  "qMetaDef": {},
+  "title": "",
+  "description": "",
+  "sheetId": "eEmmbS",
+  "creationDate": "2014-09-11",
+  "qMeta": {},
+  "qSelectionInfo": {},
+  "qHyperCube": {
+    "qSize": {
+      "qcx": 2,
+      "qcy": 6
+    },
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 0,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        },
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 7,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 316,
+        "qMax": 1996,
+        "qIsAutoFormat": true,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qTrendLines": [],
+        "autoSort": true,
+        "cId": "JGpTJRD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qEffectiveInterColumnSortOrder": [
+      1,
+      0
+    ],
+    "qGrandTotalRow": [
+      {
+        "qText": "4619",
+        "qNum": 4619,
+        "qElemNumber": -1,
+        "qState": "X",
+        "qIsTotalCell": true
+      }
+    ],
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O"
+            },
+            {
+              "qText": "1996",
+              "qNum": 1996,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O"
+            },
+            {
+              "qText": "716",
+              "qNum": 716,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O"
+            },
+            {
+              "qText": "635",
+              "qNum": 635,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O"
+            },
+            {
+              "qText": "490",
+              "qNum": 490,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O"
+            },
+            {
+              "qText": "466",
+              "qNum": 466,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ],
+          [
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O"
+            },
+            {
+              "qText": "316",
+              "qNum": 316,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          ]
+        ],
+        "qTails": [
+          {
+            "qUp": 0,
+            "qDown": 0
+          }
+        ],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 2,
+          "qHeight": 6
+        }
+      }
+    ],
+    "qPivotDataPages": [],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qNoOfLeftDims": 0,
+    "qTreeNodesOnDim": [],
+    "qColumnOrder": [],
+    "columnOrder": [
+      0,
+      1
+    ]
+  },
+  "showTitles": true,
+  "subtitle": "",
+  "footnote": "",
+  "dataPoint": {
+    "auto": true,
+    "labelMode": "share",
+    "showLabels": true,
+    "show": false
+  },
+  "color": {
+    "auto": false,
+    "mode": "byDimension",
+    "singleColor": 3,
+    "persistent": true,
+    "expressionIsColor": false,
+    "measureScheme": "sg",
+    "reverseScheme": false,
+    "dimensionScheme": "12",
+    "expressionLabel": "",
+    "autoMinMax": true,
+    "measureMin": 0,
+    "measureMax": 10,
+    "dimensionId": "",
+    "colorExpression": ""
+  },
+  "legend": {
+    "show": false,
+    "dock": "auto",
+    "showTitle": true
+  },
+  "visualization": "barchart",
+  "refLine": {
+    "refLines": []
+  },
+  "barGrouping": {
+    "grouping": "grouped"
+  },
+  "orientation": "vertical",
+  "gridLine": {
+    "auto": true,
+    "spacing": 2
+  },
+  "dimensionAxis": {
+    "show": "all",
+    "label": "auto",
+    "dock": "near"
+  },
+  "measureAxis": {
+    "show": "all",
+    "label": "horizontal",
+    "dock": "near",
+    "spacing": 1,
+    "autoMinMax": true,
+    "minMax": "min",
+    "min": 0,
+    "max": 10
+  },
+  "reducedHyperCube": {
+    "qDataPages": [
+      {
+        "qMatrix": [
+          [
+            {
+              "qText": "White",
+              "qNum": "NaN",
+              "qElemNumber": 4,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "1996",
+              "qNum": 1996,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Other",
+              "qNum": "NaN",
+              "qElemNumber": 5,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "716",
+              "qNum": 716,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Black or African American",
+              "qNum": "NaN",
+              "qElemNumber": 0,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "635",
+              "qNum": 635,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Unknown",
+              "qNum": "NaN",
+              "qElemNumber": 3,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "490",
+              "qNum": 490,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Hispanic or Latino",
+              "qNum": "NaN",
+              "qElemNumber": 1,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "466",
+              "qNum": 466,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ],
+          [
+            {
+              "qText": "Asian",
+              "qNum": "NaN",
+              "qElemNumber": 2,
+              "qState": "O",
+              "qGreyValue": 0
+            },
+            {
+              "qText": "316",
+              "qNum": 316,
+              "qElemNumber": 0,
+              "qState": "L",
+              "qGreyValue": 0
+            }
+          ]
+        ],
+        "qTails": [
+          {
+            "qUp": 0,
+            "qDown": 0
+          }
+        ],
+        "qArea": {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 2,
+          "qHeight": 6
+        }
+      }
+    ],
+    "qDimensionInfo": [
+      {
+        "qFallbackTitle": "Ethnic Group",
+        "qApprMaxGlyphCount": 25,
+        "qCardinal": 6,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Ethnic Group"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 6,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 0,
+          "qSelectedExcluded": 0
+        },
+        "qTags": [
+          "$ascii",
+          "$text"
+        ],
+        "qDimensionType": "D",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "U",
+          "qnDec": 0,
+          "qUseThou": 0
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Ethnic Group"
+        ],
+        "title": "Ethnic Group",
+        "autoSort": true,
+        "cId": "dSunDMY",
+        "othersLabel": "Others"
+      }
+    ],
+    "qMeasureInfo": [
+      {
+        "qFallbackTitle": "# of Employees",
+        "qApprMaxGlyphCount": 4,
+        "qCardinal": 7,
+        "qSortIndicator": "D",
+        "qNumFormat": {
+          "qType": "I",
+          "qnDec": 0,
+          "qUseThou": 1,
+          "qFmt": "###0",
+          "qDec": "."
+        },
+        "qMin": 316,
+        "qMax": 1996,
+        "qIsAutoFormat": true,
+        "autoSort": true,
+        "cId": "JGpTJRD",
+        "numFormatFromTemplate": true
+      }
+    ],
+    "qStackedDataPages": [],
+    "qMode": "S",
+    "qSize": {
+      "qcx": 2,
+      "qcy": 0
+    }
+  },
+  "visualizationType": "barchart",
+  "timestamp": 1410448981609,
+  "sourceObjectId": "eDJKuj",
+  "isClone": false,
+  "libraryTitle": "",
+  "snapshotData": {
+    "object": {
+      "size": {
+        "w": 545,
+        "h": 341
+      }
+    },
+    "parent": {
+      "h": 879,
+      "w": 1910
+    },
+    "content": {
+      "chartData": {
+        "legendScrollOffset": 0,
+        "scrollOffset": 0,
+        "discreteSpacing": 77.66666666666667,
+        "axisInnerOffset": 0,
+        "hasMiniChart": false
+      },
+      "size": {
+        "w": 545,
+        "h": 335
+      },
+      "components": {
+        "miniChart": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 466,
+            "h": 0
+          }
+        },
+        "refLineLabels": {
+          "visible": false,
+          "dock": "right",
+          "size": {
+            "w": 0,
+            "h": 218.78999919891356
+          }
+        },
+        "grid": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 466,
+            "h": 218.78999919891356
+          }
+        },
+        "legend": {
+          "visible": false,
+          "dock": "right",
+          "size": {
+            "w": 0,
+            "h": 218.78999919891356
+          }
+        },
+        "scrollArea": {
+          "visible": false,
+          "dock": "bottom",
+          "size": {
+            "w": 466,
+            "h": 0
+          }
+        },
+        "refLines": {
+          "visible": false,
+          "dock": "center",
+          "size": {
+            "w": 466,
+            "h": 218.78999919891356
+          }
+        },
+        "dataArea": {
+          "visible": true,
+          "dock": "center",
+          "size": {
+            "w": 466,
+            "h": 218.78999919891356
+          }
+        },
+        "measureAxis": {
+          "visible": true,
+          "dock": "left",
+          "size": {
+            "w": 75,
+            "h": 218.78999919891356
+          }
+        },
+        "dimensionAxis": {
+          "visible": true,
+          "dock": "bottom",
+          "size": {
+            "w": 466,
+            "h": 88
+          }
+        },
+        "dimensionAxisTitle": {
+          "visible": true,
+          "dock": "bottom",
+          "size": {
+            "w": 466,
+            "h": 24.210000801086423
+          }
+        }
+      },
+      "v": 0.96
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "jejcDr",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Training Cost (Avg)",
+    "qDef": "avg([Training Cost])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Training Cost (Avg)",
+    "description": "",
+    "tags": [
+      "Cost",
+      "Training"
+    ]
+  }
+}

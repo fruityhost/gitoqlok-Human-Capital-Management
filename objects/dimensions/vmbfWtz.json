@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "vmbfWtz",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Reason"
+    ],
+    "qFieldLabels": [
+      "Termination Reason"
+    ],
+    "title": "Termination Reason"
+  },
+  "qMetaDef": {
+    "title": "Termination Reason",
+    "description": "",
+    "tags": [
+      "Employees",
+      "Terminations"
+    ]
+  }
+}

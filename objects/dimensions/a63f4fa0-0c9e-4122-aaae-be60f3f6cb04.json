@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "a63f4fa0-0c9e-4122-aaae-be60f3f6cb04",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Country"
+    ],
+    "qFieldLabels": [
+      "Country"
+    ],
+    "title": "Country"
+  },
+  "qMetaDef": {
+    "title": "Country",
+    "description": "",
+    "tags": [
+      "Geo"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "596d2678-4a7a-409c-b9e6-069473da38ed",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Organization Type"
+    ],
+    "qFieldLabels": [
+      "Organization Type"
+    ],
+    "title": "Organization Type"
+  },
+  "qMetaDef": {
+    "title": "Organization Type",
+    "description": "",
+    "tags": [
+      "Job"
+    ]
+  }
+}

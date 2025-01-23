@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "e0873e61-5073-417b-b1df-f6ec1fba1df1",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Employee Type"
+    ],
+    "qFieldLabels": [
+      "Employee Type"
+    ],
+    "title": "Employee Type"
+  },
+  "qMetaDef": {
+    "title": "Employee Type",
+    "description": "",
+    "tags": [
+      "Employee"
+    ]
+  }
+}

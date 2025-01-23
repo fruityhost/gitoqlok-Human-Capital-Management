@@ -1,0 +1,500 @@
+[
+  {
+    "qName": "# Enrollment",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Training"
+    ]
+  },
+  {
+    "qName": "# Program Completion",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Training"
+    ]
+  },
+  {
+    "qName": "Age",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Age Group",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Band",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Country",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "CountryCode",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "CountryCode3-world.Name",
+    "qTags": [
+      "$geoname",
+      "$key",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees",
+      "World.shp/Features"
+    ]
+  },
+  {
+    "qName": "Course",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "countryISO3"
+    ]
+  },
+  {
+    "qName": "Course Type",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "countryISO3"
+    ]
+  },
+  {
+    "qName": "Course_ID",
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Training",
+      "countryISO3"
+    ]
+  },
+  {
+    "qName": "Developmental Program",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "countryISO3"
+    ]
+  },
+  {
+    "qName": "Director",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Hierarchy$"
+    ]
+  },
+  {
+    "qName": "Employee Name",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Employee Type",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "EmployeeCount",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Employee_ID",
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Training",
+      "Survey$",
+      "Hierarchy$",
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Employment Status",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Ethnic Group",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Gender",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Geography",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Job",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Job Family",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Location",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Month",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "New Hires",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "NewHire",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Organization",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Organization Class",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Organization Type",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Position",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Position1",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Question Type",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Survey$"
+    ]
+  },
+  {
+    "qName": "Reason",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Recruiting_Channel",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Recruiting_Source",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Responses",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Survey$"
+    ]
+  },
+  {
+    "qName": "Salary",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Score",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Survey$"
+    ]
+  },
+  {
+    "qName": "Tenure",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Tenure Group",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Terminated Employee",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Termination",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Town or City",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "Training Cost",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Training"
+    ]
+  },
+  {
+    "qName": "Training Hours",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Training"
+    ]
+  },
+  {
+    "qName": "VP",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Hierarchy$"
+    ]
+  },
+  {
+    "qName": "Year",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Employees"
+    ]
+  },
+  {
+    "qName": "world.Area",
+    "qTags": [
+      "$wgs84",
+      "$geomultipolygon",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "World.shp/Features"
+    ]
+  }
+]

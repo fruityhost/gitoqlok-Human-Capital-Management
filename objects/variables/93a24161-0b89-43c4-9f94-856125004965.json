@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "93a24161-0b89-43c4-9f94-856125004965",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "name",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "World.shp/Features",
+  "qIsScriptCreated": true
+}

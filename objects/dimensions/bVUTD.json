@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "bVUTD",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Tenure"
+    ],
+    "qFieldLabels": [
+      "Tenure"
+    ],
+    "title": "Tenure"
+  },
+  "qMetaDef": {
+    "title": "Tenure",
+    "description": "",
+    "tags": [
+      "Employee"
+    ]
+  }
+}

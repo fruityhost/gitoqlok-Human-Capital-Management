@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "7356624c-5c74-4354-8dab-f90aeca2b6ea",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Course Type"
+    ],
+    "qFieldLabels": [
+      "Course Type"
+    ],
+    "title": "Course Type"
+  },
+  "qMetaDef": {
+    "title": "Course Type",
+    "description": "",
+    "tags": [
+      "Training"
+    ]
+  }
+}

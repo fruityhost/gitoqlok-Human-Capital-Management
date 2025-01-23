@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "gApKKqj",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Training Hours (Avg)",
+    "qDef": "avg([Training Hours])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "Training Hours (Avg)",
+    "description": "",
+    "tags": [
+      "Training"
+    ]
+  }
+}

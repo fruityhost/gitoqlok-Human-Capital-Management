@@ -1,0 +1,109 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "BwdcDAB",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Text: Employee Satisfaction",
+      "description": "Employee Satisfaction percentage based on surveys",
+      "tags": [
+        "Employee",
+        "Satisfaction"
+      ]
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [],
+      "qMeasures": [
+        {
+          "qLibraryId": "uwmsJe",
+          "qDef": {
+            "qTags": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qType": "F",
+              "qnDec": 2,
+              "qUseThou": 0,
+              "qFmt": "0.0%",
+              "qDec": ".",
+              "qThou": ","
+            },
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "autoSort": true,
+            "cId": "muzzyY",
+            "numFormatFromTemplate": true
+          },
+          "qSortBy": {
+            "qSortByNumeric": -1,
+            "qSortByLoadOrder": 1,
+            "qExpression": {}
+          },
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qTrendLines": [],
+          "qMiniChartDef": {
+            "qSortBy": {
+              "qExpression": {}
+            },
+            "qOtherTotalSpec": {
+              "qOtherMode": "OTHER_OFF",
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qForceBadValueKeeping": true,
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qTotalMode": "TOTAL_OFF",
+              "qReferencedExpression": {}
+            },
+            "qMaxNumberPoints": -1,
+            "qAttributeExpressions": []
+          }
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0
+      ],
+      "qInitialDataFetch": [],
+      "qReductionMode": "N",
+      "qMode": "S",
+      "qPseudoDimPos": -1,
+      "qNoOfLeftDims": -1,
+      "qMaxStackedCells": 5000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qDynamicScript": [],
+      "qLayoutExclude": {}
+    },
+    "metadata": {},
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "responsive": "all",
+    "markdown": "^[Employee Satisfaction](center)^[%[=[](muzzyY)](5)](center)",
+    "background": {
+      "url": {
+        "qStaticContentUrlDef": {}
+      },
+      "size": "auto"
+    },
+    "visualization": "text-image",
+    "masterVersion": 0.96,
+    "images": []
+  },
+  "qChildren": []
+}

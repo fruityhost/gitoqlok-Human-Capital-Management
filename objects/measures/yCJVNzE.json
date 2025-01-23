@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "yCJVNzE",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "# of Males",
+    "qDef": "Count ({< [Gender] = {'Male'} >} DISTINCT EmployeeCount)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    }
+  },
+  "qMetaDef": {
+    "title": "# of Males",
+    "description": "",
+    "tags": [
+      "Employee",
+      "Gender",
+      "Male",
+      "Men"
+    ]
+  }
+}

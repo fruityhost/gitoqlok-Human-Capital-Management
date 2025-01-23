@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "b81f4141-37a8-44bc-bea4-df7bc7e29000",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Job Family"
+    ],
+    "qFieldLabels": [
+      "Department"
+    ],
+    "title": "Department"
+  },
+  "qMetaDef": {
+    "title": "Department",
+    "description": "Job Family",
+    "tags": [
+      "Job"
+    ]
+  }
+}

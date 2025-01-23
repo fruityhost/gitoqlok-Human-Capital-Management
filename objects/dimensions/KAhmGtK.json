@@ -1,0 +1,23 @@
+{
+  "qInfo": {
+    "qId": "KAhmGtK",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Job"
+    ],
+    "qFieldLabels": [
+      "Job Role"
+    ],
+    "title": "Job Role"
+  },
+  "qMetaDef": {
+    "title": "Job Role",
+    "description": "",
+    "tags": [
+      "Position"
+    ]
+  }
+}

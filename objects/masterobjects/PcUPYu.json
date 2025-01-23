@@ -1,0 +1,112 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "PcUPYu",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Text: Compensantion",
+      "description": "Widget with the salaries total amount",
+      "tags": [
+        "compensation",
+        "salaries",
+        "salary",
+        "wages"
+      ]
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [],
+      "qMeasures": [
+        {
+          "qDef": {
+            "qLabel": "Wages Amount",
+            "qTags": [],
+            "qGrouping": "N",
+            "qDef": "sum(Salary)/1000000",
+            "qNumFormat": {
+              "qType": "M",
+              "qnDec": 2,
+              "qUseThou": 0,
+              "qFmt": "$#,##0.00M;($#,##0.00)M",
+              "qDec": ".",
+              "qThou": ","
+            },
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "autoSort": true,
+            "cId": "EBqJpn",
+            "numFormatFromTemplate": true
+          },
+          "qSortBy": {
+            "qSortByNumeric": -1,
+            "qSortByLoadOrder": 1,
+            "qExpression": {}
+          },
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qTrendLines": [],
+          "qMiniChartDef": {
+            "qSortBy": {
+              "qExpression": {}
+            },
+            "qOtherTotalSpec": {
+              "qOtherMode": "OTHER_OFF",
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qForceBadValueKeeping": true,
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qTotalMode": "TOTAL_OFF",
+              "qReferencedExpression": {}
+            },
+            "qMaxNumberPoints": -1,
+            "qAttributeExpressions": []
+          }
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0
+      ],
+      "qInitialDataFetch": [],
+      "qReductionMode": "N",
+      "qMode": "S",
+      "qPseudoDimPos": -1,
+      "qNoOfLeftDims": -1,
+      "qMaxStackedCells": 5000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qDynamicScript": [],
+      "qLayoutExclude": {}
+    },
+    "metadata": {},
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "responsive": "text",
+    "markdown": "^[Compensation](center)^[%[=[](EBqJpn)](5)](center)",
+    "background": {
+      "url": {
+        "qStaticContentUrlDef": {}
+      },
+      "size": "auto"
+    },
+    "visualization": "text-image",
+    "masterVersion": 0.96,
+    "images": []
+  },
+  "qChildren": []
+}
